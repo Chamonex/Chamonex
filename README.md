@@ -1,3 +1,4 @@
-- Software Engineering student in Brazil :green_square::yellow_square:
-- Currently studying Android development in Java
--  
+:orange_book:	Software Engineering student in Brazil
+:iphone: Currently studying Android development in Java
+:coffee: Searching for Java open source projects
+:green_heart: Volleyball and camping lover
