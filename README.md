@@ -1,4 +1,2 @@
-- 🙋 Hy !!
-- 🇧🇷  I'm software engineering student in Brazil
-- 🔭 I’m currently studying JavaScript and Node.js
-- 💚 And sharing all I'm learned
+- Software Engineering student in Brazil :green_square:
+- Currently studying Android development in Java
